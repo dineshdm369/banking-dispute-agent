@@ -8,7 +8,6 @@ An AI-powered banking dispute processing system that demonstrates agentic workfl
 - **User Authentication**: Role-based user selection with department tracking
 - **Session Management**: Unique session IDs for complete audit trails
 - **Real-time Progress**: Live updates during multi-stage processing
-- **Apple-inspired UI**: Clean, intuitive interface with responsive design
 
 ### Agentic Workflow Implementation
 The system implements a comprehensive agentic workflow:
